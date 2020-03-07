@@ -81,6 +81,4 @@ Install 2 binding posts. These provide connections to the DIT and DAH contacts. 
 These are constructed in the same way as the binding posts in step 1 apart from there being an extra solder tag on the top side
 of the board. See the images below for the detailed construction.
 
-<img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S2F1.jpg" width="100">
-<img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S2F2.jpg" width="300">
-<img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S2F3.jpg" width="300">
+<img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S2F1.jpg" width="100"> <img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S2F2.jpg" width="300"> <img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S2F3.jpg" width="300">
