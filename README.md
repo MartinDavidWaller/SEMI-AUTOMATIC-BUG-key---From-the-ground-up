@@ -82,3 +82,24 @@ These are constructed in the same way as the binding posts in step 1 apart from 
 of the board. See the images below for the detailed construction.
 
 <img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S2F1.jpg" width="100"> <img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S2F2.jpg" width="300"> <img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S2F3.jpg" width="300">
+
+### Step 3
+
+Install the knob and knob plate on the yoke. This requires:
+
+* M2 Bolt 6mm * 1
+* M2 Nut * 1
+* M3 Bolt 12mm * 1
+* M3 Nut * 1
+* Printed Yoke * 1
+
+Start by bolting the knob plate to the yoke using the M2 nut and bolt. The M2 nut should be burried in the yoke itself. 
+Insert the M3 nut into the slot in the side of the knob and temporarily insert the M3 bolt in the bottom and screw home. 
+This simply ensures that the nut is correctly positioned, remove the bolt. Push the M3 bolt through the knob plate, through
+yoke, and into the knob. Position it so that the slot in the knob is pointing downwards and out of sight.
+See the images below for the detailed construction.
+
+<img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S3F1.jpg" width="100"> <img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S3F2.jpg" width="300">
+
+
+
