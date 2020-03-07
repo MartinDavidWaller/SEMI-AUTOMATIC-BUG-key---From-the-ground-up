@@ -101,5 +101,19 @@ See the images below for the detailed construction.
 
 <img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S3F1.jpg" width="100"> <img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S3F2.jpg" width="300">
 
+### Step 4
+
+Install the DIT contact in the lever arm. This requires:
+
+* M3 Bolt 6mm * 1
+* M3 Nut * 1
+* M3 Solder Tag * 1
+
+Simply insert the bolt through the solder tab and then through the lever arm. The nut is buried in the lever arm itself.
+See the images below for the detailed construction.
+
+<img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S4F1.jpg" width="100"> <img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S4F2.jpg" width="300">
+
+
 
 
