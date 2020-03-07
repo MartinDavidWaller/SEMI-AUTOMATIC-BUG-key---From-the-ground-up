@@ -58,7 +58,7 @@ Assembly is quite easy. Below are the steps to follow. The only required tools a
 
 Install 3 binding posts.
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/Pictures/Assembly/S1F1.jpg "Fig 1")
 
 <img src="https://github.com/MartinDavidWaller/D70Box/blob/master/3DPrints/Pictures/D70KnobBottomView.png?sanitize=true&raw=true" />
 
