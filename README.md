@@ -56,7 +56,15 @@ Assembly is quite easy. Below are the steps to follow. The only required tools a
 
 ### Step 1
 
-Install 3 binding posts.
+Install 3 binding posts. These provide connections to the keyer. Each post requires:
+
+* M3 Bolt 16mm * 1
+* M3 Solder Tag * 1
+* Pinted Binding Post * 1
+* M3 Nut * 2
+* M3 Washer * 1
+
+See the images below for the detailed construction. Expect to bury one nut within the body of the binding post.
 
 <img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S1F1.jpg" width="100">
 <img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S1F2.jpg" width="300">
