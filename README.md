@@ -64,7 +64,7 @@ Install 3 binding posts. These provide connections to the keyer. Each post requi
 * M3 Nut * 2
 * M3 Washer * 1
 
-See the images below for the detailed construction. Expect to bury one nut within the body of the binding post.
+Expect to bury one nut within the body of the binding post. See the images below for the detailed construction. 
 
 <img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S1F1.jpg" width="100">
 <img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S1F2.jpg" width="300">
@@ -72,4 +72,17 @@ See the images below for the detailed construction. Expect to bury one nut withi
 
 ### Step 2
 
-two
+Install 2 binding posts. These provide connections to the DIT and DAH contacts. Each post requires:
+
+* M3 Bolt 16mm * 1
+* M3 Solder Tag * 2
+* Pinted Binding Post * 1
+* M3 Nut * 2
+* M3 Washer * 1
+
+These are constructed in the same way as the binding posts in step 1 apart from there being an extra solder tag on the top side
+of the board. See the images below for the detailed construction.
+
+<img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S2F1.jpg" width="100">
+<img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S2F2.jpg" width="300">
+<img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S2F3.jpg" width="300">
