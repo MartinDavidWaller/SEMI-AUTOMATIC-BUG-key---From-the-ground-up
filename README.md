@@ -52,7 +52,7 @@ Notes:
 
 ## Assembly
 
-Assembly is quite easy. Below are the steps to follow. The only required tools are a screw driver and small pliers.
+Assembly is quite easy. Below are the steps to follow. The only required tools are a screwdriver and small pliers.
 
 ### Step 1
 
@@ -60,7 +60,7 @@ Install 3 binding posts. These provide connections to the keyer. Each post requi
 
 * M3 Bolt 16mm * 1
 * M3 Solder Tag * 1
-* Pinted Binding Post * 1
+* Printed Binding Post * 1
 * M3 Nut * 2
 * M3 Washer * 1
 
@@ -74,7 +74,7 @@ Install 2 binding posts. These provide connections to the DIT and DAH contacts. 
 
 * M3 Bolt 16mm * 1
 * M3 Solder Tag * 2
-* Pinted Binding Post * 1
+* Printed Binding Post * 1
 * M3 Nut * 2
 * M3 Washer * 1
 
@@ -93,7 +93,7 @@ Install the knob and knob plate on the yoke. This requires:
 * M3 Nut * 1
 * Printed Yoke * 1
 
-Start by bolting the knob plate to the yoke using the M2 nut and bolt. The M2 nut should be burried in the yoke itself. 
+Start by bolting the knob plate to the yoke using the M2 nut and bolt. The M2 nut should be buried in the yoke itself. 
 Insert the M3 nut into the slot in the side of the knob and temporarily insert the M3 bolt in the bottom and screw home. 
 This simply ensures that the nut is correctly positioned, remove the bolt. Push the M3 bolt through the knob plate, through
 yoke, and into the knob. Position it so that the slot in the knob is pointing downwards and out of sight.
