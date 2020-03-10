@@ -114,7 +114,7 @@ See the images below for the detailed construction.
 
 <img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S4F1.jpg" width="300"> <img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S4F2.jpg" width="300">
 
-### Setp 5
+### Step 6
 
 Assemble the DIT and DAH short contact posts. Each post requires:
 
@@ -135,9 +135,9 @@ it makes contact with the upper 3mm solder tag. The solder tag can then be solde
 This can be done in situ but it is best to disassemble and solder them separately.
 See the images below for the detailed construction.
 
-<img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S5F1.jpg" width="300"> <img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S5F2.jpg" width="100"> <img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S5F3.jpg" width="300">
+<img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S6F1.jpg" width="300"> <img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S6F2.jpg" width="100"> <img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S6F3.jpg" width="300">
 
-### Step 6
+### Step 7
 
 Assemble the DIT rest. This requires:
 
@@ -149,9 +149,9 @@ Put the 3mm knurled nut on to the 3mm knurled bolt and screw it half way down. P
 3mm bolt through the right hand arm of the body and add the 3mm nut. Scren this hold until the nut is
 pulled into the arm. See the images below for the detailed construction.
 
-<img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S6F1.jpg" width="300"> <img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S6F2.jpg" width="200">
+<img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S7F1.jpg" width="300"> <img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S7F2.jpg" width="200">
 
-### Step 7
+### Step 8
 
 Assemble the DIT tension. This requires:
 
@@ -159,6 +159,7 @@ Assemble the DIT tension. This requires:
 * M3 Knulred Nut * 1
 * M3 Nut * 3
 * Printed Spring Cup * 1
+* Printed Main Frame * 1
 
 Put the M3 knurled nut on to the M3 knurled bolt and screw it all the way down. Push the end of the 
 3mm bolt through the left hand arm of the body. Add two further M3 nuts, the sprint cup with the 
@@ -166,4 +167,68 @@ opening facing to the right, and a further M3 nut. The last two M3 nuts need to 
 the print cup tight at the end of the M3 knurled bolt. The inner M3 nut needs to be pulled into the
 arm screwing home the bolt. See the images below for the detailed construction.
 
-<img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S7F1.jpg" width="300"> <img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S7F2.jpg" width="300"> <img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S7F3.jpg" width="300">
+<img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S8F1.jpg" width="300"> <img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S8F2.jpg" width="300"> <img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S8F3.jpg" width="300">
+
+### Step 9
+
+Secure the assembled lever arm into the body. This requires:
+
+* Assembled lever arm * 1
+* M2 Bolt 20mm * 2
+* M2 Nut * 2
+* Compression Spring 7mm x 10mm * 1
+* Printed Main Frame * 1
+
+Start by putting 1 M2 bolt though the top and screwing on a nut so that the thread just pokes though. Repeat this process for the
+bottom. Push the assmebled lever arm through the main frame until holes in the upright align with the M2 bolts. Screw the M2 bolts
+home. This can be fiddly and best done holding the main frame horizontal. Put one end of the compression spring in the spring cup 
+and the other end in the recess in the lever arm. You may need to adjust the DIT rest to hold the sprint in place. See the images 
+below for the detailed construction.
+
+<img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S9F1.jpg" width="300">
+<img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S9F2.jpg" width="300"> 
+<img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S9F3.jpg" width="300">
+<img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S9F4.jpg" width="300"> 
+
+### Step 10
+
+Secure the main frame to the base. This requires:
+
+* M3 Bolt 16mm * 2
+* M3 Nut * 2
+* Assembled Base * 1
+* Assembled Main Frame * 1
+
+Insert the two M3 bolts up through the base and into the main frame. Add the M3 nuts and secure. See the images 
+below for the detailed construction.
+
+<img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S10F1.jpg" width="300">
+<img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S10F2.jpg" width="300"> 
+
+### Step 11
+
+Secure the DIT and DAH contact posts to the base. This requires:
+
+* M3 Solder Tag * 2
+* Assembled Short Contact Post * 2
+* Assembled Base * 1
+
+Insert one M3 bolt through an M3 solder tag and then up through the base. Screw into the bottom of a sort contact post. 
+Align the contact post with the associated DIT or DAH contact. Repeat for the second short contact post. See the images 
+below for the detailed construction.
+
+<img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S11F1.jpg" width="300">
+<img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S11F2.jpg" width="300"> 
+<img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S11F3.jpg" width="300"> 
+
+### Step 12
+
+Add hook up wires. This requires:
+
+* Assembled keyer * 1
+* Short lengths of hook up wire
+
+This is best described by the images below. 
+
+<img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S12F1.jpg" width="300">
+<img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S12F2.jpg" width="300"> 
