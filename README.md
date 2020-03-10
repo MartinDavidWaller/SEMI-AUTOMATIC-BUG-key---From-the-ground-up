@@ -112,7 +112,7 @@ Install the DIT contact in the lever arm. This requires:
 Simply insert the bolt through the solder tab and then through the lever arm. The nut is buried in the lever arm itself.
 See the images below for the detailed construction.
 
-<img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S4F1.jpg" width="100"> <img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S4F2.jpg" width="300">
+<img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S4F1.jpg" width="300"> <img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S4F2.jpg" width="300">
 
 ### Setp 5
 
@@ -123,9 +123,9 @@ Assemble the DIT and DAH short contact posts. Each post requires:
 * M3 Solder Tag * 2
 * M3 Nut * 2
 * M3 Bolt 16mm * 1
-* Short Contact Post * 2
+* Printed Short Contact Post * 2
 
-Starting at the top put the knurled nut onto the knurled bolt and screw all the way down. 
+Starting at the top put the knurled nut onto the knurled bolt and screw it all the way down. 
 Pass the bolt thought the 3mm hole in the side of the contact post and put one 3mm solder 
 tag and 3mm nut on the other size and screw home so that the nut is pulled into the contact 
 post. At the bottom push the hoop end of a 3mm solder tag into the contact post and above 
@@ -135,9 +135,21 @@ it makes contact with the upper 3mm solder tag. The solder tag can then be solde
 This can be done in situ but it is best to disassemble and solder them separately.
 See the images below for the detailed construction.
 
-<img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S5F1.jpg" width="100"> 
-<img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S5F2.jpg" width="300">
-<img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S5F3.jpg" width="300">
+<img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S5F1.jpg" width="300"> <img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S5F2.jpg" width="100"> <img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S5F3.jpg" width="300">
+
+## Step 6
+
+Assemble the DIT rest. This requires:
+
+* M3 Knurled Bolt 20mm * 1
+* M3 Knulred Nut * 1
+* Printed Main Frame * 1
+
+Put the 3mm knurled nut on to the 3mm knurled bolt and screw it half way down. Push the end of the 
+3mm bolt through the right hand arm of the body and add the 3mm nut. Scren this hold until the nut is
+pulled into the arm. See the images below for the detailed construction.
+
+<img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S6F1.jpg" width="300"> <img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S6F2.jpg" width="100">
 
 
 
