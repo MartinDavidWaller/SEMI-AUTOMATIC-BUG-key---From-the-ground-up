@@ -99,7 +99,7 @@ This simply ensures that the nut is correctly positioned, remove the bolt. Push 
 yoke, and into the knob. Position it so that the slot in the knob is pointing downwards and out of sight.
 See the images below for the detailed construction.
 
-<img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S3F1.jpg" width="100"> <img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S3F2.jpg" width="300">
+<img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S3F1.jpg" width="300"> <img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S3F2.jpg" width="300">
 
 ### Step 4
 
@@ -137,7 +137,7 @@ See the images below for the detailed construction.
 
 <img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S5F1.jpg" width="300"> <img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S5F2.jpg" width="100"> <img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S5F3.jpg" width="300">
 
-## Step 6
+### Step 6
 
 Assemble the DIT rest. This requires:
 
@@ -149,8 +149,21 @@ Put the 3mm knurled nut on to the 3mm knurled bolt and screw it half way down. P
 3mm bolt through the right hand arm of the body and add the 3mm nut. Scren this hold until the nut is
 pulled into the arm. See the images below for the detailed construction.
 
-<img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S6F1.jpg" width="300"> <img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S6F2.jpg" width="100">
+<img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S6F1.jpg" width="300"> <img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S6F2.jpg" width="200">
 
+### Step 7
 
+Assemble the DIT tension. This requires:
 
+* M3 Knurled Bolt 20mm * 1
+* M3 Knulred Nut * 1
+* M3 Nut * 3
+* Printed Spring Cup * 1
 
+Put the M3 knurled nut on to the M3 knurled bolt and screw it all the way down. Push the end of the 
+3mm bolt through the left hand arm of the body. Add two further M3 nuts, the sprint cup with the 
+opening facing to the right, and a further M3 nut. The last two M3 nuts need to be adjusted to hold
+the print cup tight at the end of the M3 knurled bolt. The inner M3 nut needs to be pulled into the
+arm screwing home the bolt. See the images below for the detailed construction.
+
+<img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S7F1.jpg" width="300"> <img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S7F2.jpg" width="300"> <img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S7F3.jpg" width="300">
