@@ -2,9 +2,9 @@
 
  SEMI-AUTOMATIC "BUG" key - From the ground up
  
- (Keyer.md)
+ [hello](Keyer.md)
  
- (Key.md)
+ [goodbye](Key.md)
  
  ## Required Parts
  
