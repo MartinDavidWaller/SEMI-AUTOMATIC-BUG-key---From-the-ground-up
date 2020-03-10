@@ -1,10 +1,6 @@
-# SEMI-AUTOMATIC BUG key - From the ground up
+# Keyer
 
  SEMI-AUTOMATIC "BUG" key - From the ground up
- 
- (Keyer.md)
- 
- (Key.md)
  
  ## Required Parts
  
