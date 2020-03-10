@@ -114,6 +114,27 @@ See the images below for the detailed construction.
 
 <img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S4F1.jpg" width="300"> <img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S4F2.jpg" width="300">
 
+### Step 5
+
+Assemble the DAH tension sprint. This requires:
+
+* M3 Bolt 25mm * 1
+* M3 Solder Tag * 1
+* M3 Nut * 1
+* M3 Nylon Washer * 1
+* Compression Spring 7mm x 10mm * 1
+* Assembled Lever Arm * 1
+* Printed Dah Sprint Cup * 1
+* M3 Knurled Nut * 2
+
+Start by putting the solder tag on the M3 bolt, add the M3 nut and tightened all the way. Hold the lever arm on its side and
+place the nylon washer between the yoke and the lever arm so that it aligns with the 3mm hole. Push the bolt through the
+hole in the yoke, through the nylon washer and through the lever arm. Place the spring over the bolt followed by the
+DAH sprint cup so that it holds the spring secure. Add the two remaining M3 knurled nuts. See the images below for the 
+detailed construction.
+
+<img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S5F1.jpg" width="300"> <img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S5F2.jpg" width="300">
+
 ### Step 6
 
 Assemble the DIT and DAH short contact posts. Each post requires:
@@ -132,7 +153,7 @@ post. At the bottom push the hoop end of a 3mm solder tag into the contact post 
 that push in a M3 nut. Screw the M3 bolt up through the bottom until it has passed through
 the nut. You should then be able to bend the bottom 3mm solder tag over the M3 nut so that 
 it makes contact with the upper M3 solder tag. The solder tag can then be soldered together. 
-This can be done in situ but it is best to disassemble and solder them separately.
+This can be done in situ, but it is best to disassemble and solder them separately.
 See the images below for the detailed construction.
 
 <img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S6F1.jpg" width="300"> <img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S6F2.jpg" width="100"> <img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S6F3.jpg" width="300">
@@ -145,8 +166,8 @@ Assemble the DIT rest. This requires:
 * M3 Knulred Nut * 1
 * Printed Main Frame * 1
 
-Put the 3mm knurled nut on to the 3mm knurled bolt and screw it half way down. Push the end of the 
-3mm bolt through the right hand arm of the body and add the 3mm nut. Scren this hold until the nut is
+Put the 3mm knurled nut on to the 3mm knurled bolt and screw it halfway down. Push the end of the 
+3mm bolt through the right-hand arm of the body and add the 3mm nut. Screw this home until the nut is
 pulled into the arm. See the images below for the detailed construction.
 
 <img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S7F1.jpg" width="300"> <img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S7F2.jpg" width="200">
@@ -156,13 +177,13 @@ pulled into the arm. See the images below for the detailed construction.
 Assemble the DIT tension. This requires:
 
 * M3 Knurled Bolt 20mm * 1
-* M3 Knulred Nut * 1
+* M3 Knurled Nut * 1
 * M3 Nut * 3
 * Printed Spring Cup * 1
 * Printed Main Frame * 1
 
 Put the M3 knurled nut on to the M3 knurled bolt and screw it all the way down. Push the end of the 
-3mm bolt through the left hand arm of the body. Add two further M3 nuts, the sprint cup with the 
+3mm bolt through the left-hand arm of the body. Add two further M3 nuts, the sprint cup with the 
 opening facing to the right, and a further M3 nut. The last two M3 nuts need to be adjusted to hold
 the print cup tight at the end of the M3 knurled bolt. The inner M3 nut needs to be pulled into the
 arm screwing home the bolt. See the images below for the detailed construction.
@@ -180,7 +201,7 @@ Secure the assembled lever arm into the body. This requires:
 * Printed Main Frame * 1
 
 Start by putting 1 M2 bolt though the top and screwing on a nut so that the thread just pokes though. Repeat this process for the
-bottom. Push the assmebled lever arm through the main frame until holes in the upright align with the M2 bolts. Screw the M2 bolts
+bottom. Push the assembled lever arm through the main frame until holes in the upright align with the M2 bolts. Screw the M2 bolts
 home. This can be fiddly and best done holding the main frame horizontal. Put one end of the compression spring in the spring cup 
 and the other end in the recess in the lever arm. You may need to adjust the DIT rest to hold the sprint in place. See the images 
 below for the detailed construction.
@@ -220,7 +241,7 @@ below for the detailed construction.
 Add hook up wires. This requires:
 
 * Assembled keyer * 1
-* Short lengths of hook up wire
+* Short lengths of hook up wire, preferably multi strand for the top connections.
 
 This is best described by the images below. 
 
