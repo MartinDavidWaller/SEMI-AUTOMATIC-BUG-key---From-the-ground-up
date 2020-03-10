@@ -126,12 +126,12 @@ Assemble the DIT and DAH short contact posts. Each post requires:
 * Printed Short Contact Post * 2
 
 Starting at the top put the knurled nut onto the knurled bolt and screw it all the way down. 
-Pass the bolt thought the 3mm hole in the side of the contact post and put one 3mm solder 
+Pass the bolt thought the 3mm hole in the side of the contact post and put one M3 solder 
 tag and 3mm nut on the other size and screw home so that the nut is pulled into the contact 
 post. At the bottom push the hoop end of a 3mm solder tag into the contact post and above 
-that push in a 3mm nut. Screw the M3 bolt up through the bottom until it has passed through
-the nut. You should then be able to bend the bottom 3mm solder tag over the 3mm nut so that 
-it makes contact with the upper 3mm solder tag. The solder tag can then be soldered together. 
+that push in a M3 nut. Screw the M3 bolt up through the bottom until it has passed through
+the nut. You should then be able to bend the bottom 3mm solder tag over the M3 nut so that 
+it makes contact with the upper M3 solder tag. The solder tag can then be soldered together. 
 This can be done in situ but it is best to disassemble and solder them separately.
 See the images below for the detailed construction.
 
@@ -185,10 +185,7 @@ home. This can be fiddly and best done holding the main frame horizontal. Put on
 and the other end in the recess in the lever arm. You may need to adjust the DIT rest to hold the sprint in place. See the images 
 below for the detailed construction.
 
-<img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S9F1.jpg" width="300">
-<img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S9F2.jpg" width="300"> 
-<img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S9F3.jpg" width="300">
-<img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S9F4.jpg" width="300"> 
+<img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S9F1.jpg" width="300"> <img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S9F2.jpg" width="300">  <img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S9F3.jpg" width="300"> <img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S9F4.jpg" width="300"> 
 
 ### Step 10
 
@@ -202,8 +199,7 @@ Secure the main frame to the base. This requires:
 Insert the two M3 bolts up through the base and into the main frame. Add the M3 nuts and secure. See the images 
 below for the detailed construction.
 
-<img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S10F1.jpg" width="300">
-<img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S10F2.jpg" width="300"> 
+<img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S10F1.jpg" width="300"> <img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S10F2.jpg" width="300"> 
 
 ### Step 11
 
@@ -217,9 +213,7 @@ Insert one M3 bolt through an M3 solder tag and then up through the base. Screw 
 Align the contact post with the associated DIT or DAH contact. Repeat for the second short contact post. See the images 
 below for the detailed construction.
 
-<img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S11F1.jpg" width="300">
-<img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S11F2.jpg" width="300"> 
-<img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S11F3.jpg" width="300"> 
+<img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S11F1.jpg" width="300"> <img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S11F2.jpg" width="300">  <img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S11F3.jpg" width="300"> 
 
 ### Step 12
 
@@ -230,5 +224,4 @@ Add hook up wires. This requires:
 
 This is best described by the images below. 
 
-<img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S12F1.jpg" width="300">
-<img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S12F2.jpg" width="300"> 
+<img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S12F1.jpg" width="300"> <img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S12F2.jpg" width="300"> 
