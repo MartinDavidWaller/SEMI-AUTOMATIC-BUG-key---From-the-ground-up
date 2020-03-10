@@ -114,6 +114,31 @@ See the images below for the detailed construction.
 
 <img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S4F1.jpg" width="100"> <img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S4F2.jpg" width="300">
 
+### Setp 5
+
+Assemble the DIT and DAH short contact posts. Each post requires:
+
+* M3 Knurled Bolt 20mm * 1
+* M3 Knulred Nut * 1
+* M3 Solder Tag * 2
+* M3 Nut * 2
+* M3 Bolt 16mm * 1
+* Short Contact Post * 2
+
+Starting at the top put the knurled nut onto the knurled bolt and screw all the way down. 
+Pass the bolt thought the 3mm hole in the side of the contact post and put one 3mm solder 
+tag and 3mm nut on the other size and screw home so that the nut is pulled into the contact 
+post. At the bottom push the hoop end of a 3mm solder tag into the contact post and above 
+that push in a 3mm nut. Screw the M3 bolt up through the bottom until it has passed through
+the nut. You should then be able to bend the bottom 3mm solder tag over the 3mm nut so that 
+it makes contact with the upper 3mm solder tag. The solder tag can then be soldered together. 
+This can be done in situ but it is best to disassemble and solder them separately.
+See the images below for the detailed construction.
+
+<img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S5F1.jpg" width="100"> 
+<img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S5F2.jpg" width="300">
+<img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S5F3.jpg" width="300">
+
 
 
 
