@@ -1,6 +1,6 @@
-# Key
+# SEMI-AUTOMATIC "BUG" key - From the ground up
 
- SEMI-AUTOMATIC "BUG" key - From the ground up
+ Key
  
  <img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Key.jpg"> 
  
