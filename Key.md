@@ -2,6 +2,8 @@
 
  SEMI-AUTOMATIC "BUG" key - From the ground up
  
+ <img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Key.jpg"> 
+ 
  ## Required Parts
  
  The following parts are all 3D printed. The table below details the part, the colour, the infill, 
