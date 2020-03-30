@@ -66,11 +66,17 @@ The following two changes involve removing the "//" comment lead characters to e
 | keyer_features_and_options.h | // #define FEATURE_COMMAND_BUTTONS | #define FEATURE_COMMAND_BUTTONS |
 | keyer_features_and_options.h | // #define FEATURE_POTENTIOMETER   | #define FEATURE_POTENTIOMETER   |
 
-The following two changes involve changing the trailing 0 to 1 to have the speed potentiometer continually honoured.
+The following change involves changing the trailing 0 to 1 to have the speed potentiometer continually honoured.
  
 | File             | Old Code                           | New Code                          |
 | ---------------- | ---------------------------------- | --------------------------------- |
 | keyer_settings.h | #define potentiometer_always_on 0  | #define potentiometer_always_on 1 |
+
+The following change involves changing the trailing 0 to 10 to assign the pin to be used to key the TX.
+ 
+| File                 | Old Code           | New Code            |
+| -------------------- | ------------------ | ------------------- |
+| keyer_pin_settings.h | #define ptt_tx_1 0 | #define ptt_tx_1 10 |
 
 ### Optional Code Changes
 
@@ -98,8 +104,8 @@ potentiometer.
 the one you have claims to be one of these then under Tools > Boards select the "LilyPad Arduino USB" device 
 and not "Arduino Leonardo".
 - Click the "Verify" button (Round circle with a tick mark in it - top left), if successful you will see something like 
-"Sketch uses 14522 bytes (50%) of program storage space. Maximum is 28672 bytes.
-Global variables use 741 bytes (28%) of dynamic memory, leaving 1819 bytes for local variables. Maximum is 2560 bytes."
+"Sketch uses 20144 bytes (70%) of program storage space. Maximum is 28672 bytes.
+Global variables use 825 bytes (32%) of dynamic memory, leaving 1735 bytes for local variables. Maximum is 2560 bytes."
 though the number may not be exact.
 - Make sure that the Arduino is plugged into your PC. Navigate to Tools > Port and make sure that the correct port is selected. See USB Issues below.
 - Click the "Upload" button (Right pointing arrow - top left) to up load the software.
@@ -107,5 +113,5 @@ though the number may not be exact.
 
 ## PCB Revisions
 
-- V1.? - Legend changes.
+- V1.1 - Legend changes.
 - V1.0 - March 13th, 2020 - Initial board design.
